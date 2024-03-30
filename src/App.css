@@ -27,10 +27,20 @@
   margin: auto;
 }
 
+.img--scale {
+  scale: 1.5;
+}
+
 .card__button{
   display: flex;
   flex-direction: column;
   gap:1rem;
+  position: relative;
+  z-index: 2;
+}
+
+.card__button--reverse{
+  flex-direction: column-reverse;
 }
 .error{
   background-color: #7469B6;
