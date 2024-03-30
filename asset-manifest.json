@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/animation/static/css/main.c7b7706c.css",
+    "main.js": "/animation/static/js/main.abd58ef1.js",
+    "static/js/453.f21489fd.chunk.js": "/animation/static/js/453.f21489fd.chunk.js",
+    "static/media/hamster_feliz.png": "/animation/static/media/hamster_feliz.d60fdecc09a7be240a9e.png",
+    "static/media/hamster_triste.png": "/animation/static/media/hamster_triste.2031f732ada8e9d50c22.png",
+    "index.html": "/animation/index.html",
+    "main.c7b7706c.css.map": "/animation/static/css/main.c7b7706c.css.map",
+    "main.abd58ef1.js.map": "/animation/static/js/main.abd58ef1.js.map",
+    "453.f21489fd.chunk.js.map": "/animation/static/js/453.f21489fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7b7706c.css",
+    "static/js/main.abd58ef1.js"
+  ]
+}
