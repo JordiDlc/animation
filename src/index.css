@@ -1,0 +1,45 @@
+:root {
+  width: 100vw;
+  height: 100vh;
+  background: #AD88C6;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; /* 1REM = 10px */
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.6rem;
+  margin:0px;
+}
+.container {
+  height: 100vh;
+  max-width: 120rem;
+  margin: 0 auto;
+}
+@media (max-width: 768px) { 
+  .container{
+    max-width: 85%;
+  }
+  body{
+    font-size: 1rem;
+  }
+  h1{
+    padding: 2rem!important;
+  }
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+h1{
+  text-transform: uppercase;
+  text-align: center;
+  padding: 5rem;
+}
