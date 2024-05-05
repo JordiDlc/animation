@@ -48,7 +48,7 @@ function App() {
         frontComponent={
           <div className="card">
             <div className="card__content">
-              <h1>{sad?'Estas segura!!!':'¿Me perdonas??'}</h1>
+              <h1>{sad?'Estas segura!!!':'¿Me perdonas?'}</h1>
               <img src={sad?triste2:triste} className={`img ${sad&&'img--scale'}`} alt="React logo" />
             </div>
             <div className={`card__button ${order&&'card__button--reverse'}`}>
