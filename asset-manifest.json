@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/animation/static/css/main.7c1a5b37.css",
-    "main.js": "/animation/static/js/main.c601e831.js",
+    "main.css": "/animation/static/css/main.a77a3cf3.css",
+    "main.js": "/animation/static/js/main.970d891e.js",
     "static/js/453.f21489fd.chunk.js": "/animation/static/js/453.f21489fd.chunk.js",
     "static/media/hamster_feliz.png": "/animation/static/media/hamster_feliz.d60fdecc09a7be240a9e.png",
     "static/media/hamster_triste2.png": "/animation/static/media/hamster_triste2.a527f96dd1b3949bc513.png",
     "static/media/hamster_triste.png": "/animation/static/media/hamster_triste.2031f732ada8e9d50c22.png",
     "index.html": "/animation/index.html",
-    "main.7c1a5b37.css.map": "/animation/static/css/main.7c1a5b37.css.map",
-    "main.c601e831.js.map": "/animation/static/js/main.c601e831.js.map",
+    "main.a77a3cf3.css.map": "/animation/static/css/main.a77a3cf3.css.map",
+    "main.970d891e.js.map": "/animation/static/js/main.970d891e.js.map",
     "453.f21489fd.chunk.js.map": "/animation/static/js/453.f21489fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c1a5b37.css",
-    "static/js/main.c601e831.js"
+    "static/css/main.a77a3cf3.css",
+    "static/js/main.970d891e.js"
   ]
 }
