@@ -29,7 +29,8 @@ canvas{
 @media (max-width: 768px) { 
   .container{
     max-width: 85%;
-    height: 90vh;
+    height: 88vh;
+    overflow: hidden;
   }
   body{
     font-size: 1rem;
