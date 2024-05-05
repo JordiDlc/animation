@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/animation/static/css/main.79f7326d.css",
+    "main.css": "/animation/static/css/main.50246ff0.css",
     "main.js": "/animation/static/js/main.c601e831.js",
     "static/js/453.f21489fd.chunk.js": "/animation/static/js/453.f21489fd.chunk.js",
     "static/media/hamster_feliz.png": "/animation/static/media/hamster_feliz.d60fdecc09a7be240a9e.png",
     "static/media/hamster_triste2.png": "/animation/static/media/hamster_triste2.a527f96dd1b3949bc513.png",
     "static/media/hamster_triste.png": "/animation/static/media/hamster_triste.2031f732ada8e9d50c22.png",
     "index.html": "/animation/index.html",
-    "main.79f7326d.css.map": "/animation/static/css/main.79f7326d.css.map",
+    "main.50246ff0.css.map": "/animation/static/css/main.50246ff0.css.map",
     "main.c601e831.js.map": "/animation/static/js/main.c601e831.js.map",
     "453.f21489fd.chunk.js.map": "/animation/static/js/453.f21489fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79f7326d.css",
+    "static/css/main.50246ff0.css",
     "static/js/main.c601e831.js"
   ]
 }
